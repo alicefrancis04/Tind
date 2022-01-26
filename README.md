@@ -1,2 +1,1 @@
-# Tind
-just a website
+TinDog Starting Files
